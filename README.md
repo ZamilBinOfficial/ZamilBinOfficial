@@ -5,8 +5,9 @@ AI builder & developer based in Dhaka, Bangladesh. Building local LLM proxies, r
 ### ⚡ Focus & Tech
 `TypeScript` • `Python` • `Node.js` • `Playwright` • `Reverse Engineering` • `YouTube Creator`
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 * [**`deepseek-web-api`**](https://github.com/ZamilBinOfficial/deepseek-web-api) — Local OpenAI-compatible API bridge for authenticated DeepSeek Web sessions with streamed reasoning & tool calling.
+* [**`hexa-studio`**](https://github.com/ZamilBinOfficial/hexa-studio) — Fast local media downloader & converter built for video editors (4K, MP3, FFmpeg).
 
 ---
 
